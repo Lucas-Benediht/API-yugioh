@@ -13,8 +13,7 @@ Antes de começar, certifique-se de ter o Python e o Flask instalados em seu amb
 
 ## Instalação
 
-   `git clone https://github.com/Lucas-Benediht/API-yugioh.git
-   cd seu-repositorio`
+   `git clone https://github.com/Lucas-Benediht/API-yugioh.git`
    
 - Tecnologias](#tecnologias)
 - [Observação](#observação)
